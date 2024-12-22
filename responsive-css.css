@@ -1,4 +1,4 @@
-@media only screen and (min-width: 600px) and (max-width: 1366px) {
+@media only screen and (min-width:688px) and (max-width:992px) {
     /* Styles for tablet devices */
 .home{
     width: auto;
@@ -21,7 +21,7 @@
 }
   }
   
-@media only screen and (min-width: 320px) and (max-width: 932px) {
+  @media only screen and (max-width:688px) {
     /* Styles for mobile devices */
     .home{
         width: 99.2%;
@@ -32,7 +32,7 @@
     padding: auto;
 }
 .text-home{
-    margin-bottom: 150%;
+    margin-bottom: 100%;
 }
 .about{
     width: 99.2%;
