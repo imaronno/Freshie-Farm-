@@ -1,0 +1,48 @@
+@media only screen and (min-width: 600px) and (max-width: 1366px) {
+    /* Styles for tablet devices */
+.home{
+    width: auto;
+    height: auto;
+}
+.text-home{
+    margin-bottom: 100%;
+}
+.fol-ful{
+    width: 70%;
+}
+.fol-img{
+    width: 130%;
+}
+.our-blog{
+    margin-left: 17%;
+}
+.our-written{
+    margin-right: 25%;
+}
+  }
+  
+@media only screen and (min-width: 320px) and (max-width: 932px) {
+    /* Styles for mobile devices */
+    .home{
+        width: 99.2%;
+        height: auto;
+        }
+.media{
+    width: 100%;
+    padding: auto;
+}
+.text-home{
+    margin-bottom: 150%;
+}
+.about{
+    width: 99.2%;
+}
+.fol-ful{
+    width: 600%;
+}
+.fol-img{
+    width: 100%;
+}
+  }
+  
+  
